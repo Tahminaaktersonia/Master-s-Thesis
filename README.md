@@ -1,4 +1,4 @@
-# Master-s-Thesis
+# Master-s-Thesis_ Upgrade_Version
 ANALYSIS OF COMPRESSION TECHNIQUES FOR 5G O-RAN FRONTHAUL COMPRESSION
 
 This MATLAB simulation, created for the Master’s Thesis “Analysis of Compression Techniques for 5G O-RAN Fronthaul Compression” (Tampere University, 2025), compares five compression techniques for 5G O-RAN IQ data: Block Floating Point (BFP), Block Scaling (BS), μ-Law Companding, Modulation-Based Compression, and Deep Learning–Based Compression. The methods are evaluated using Compression Ratio (CR) and Error Vector Magnitude (EVM) for QPSK, 16-QAM, and 64-QAM modulations across 8–14-bit quantization levels.
